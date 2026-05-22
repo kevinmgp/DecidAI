@@ -1,0 +1,6 @@
+{
+  "name": "DecidAI",
+  "description": "Helps you make difficult decisions using AI pros/cons comparison tables, ratings, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
